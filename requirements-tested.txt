@@ -1,0 +1,6 @@
+# Ambiente utilizado na validação: Python 3.12.14
+pandas==2.2.3
+numpy==2.3.5
+scipy==1.17.0
+matplotlib==3.10.8
+reportlab==4.4.9

@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+data/raw/continuity.zip
+data/raw/limits.csv
+data/raw/crosswalk.csv
+data/raw/*.part
+data/processed/national_monthly_extract.csv
+data/processed/regional_monthly_extract.csv
+*.log
