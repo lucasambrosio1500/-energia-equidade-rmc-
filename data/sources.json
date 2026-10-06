@@ -1,0 +1,72 @@
+[
+  {
+    "file": "continuity.zip",
+    "url": "https://dadosabertos.aneel.gov.br/dataset/d5f0712e-62f6-4736-8dff-9991f10758a7/resource/4493985c-baea-429c-9df5-3030422c71d7/download/indicadores-continuidade-coletivos-2020-2029.zip",
+    "retrieved_at_utc": "2026-10-06T12:38:59.271516+00:00",
+    "bytes": 72527554,
+    "sha256": "1d26f758497a4327b9c37207c5312d263b940aa04ea796301dc44f2db0272b62"
+  },
+  {
+    "file": "limits.csv",
+    "url": "https://dadosabertos.aneel.gov.br/dataset/d5f0712e-62f6-4736-8dff-9991f10758a7/resource/fd69e1dd-fd66-4269-b60c-cc0b7eb221b4/download/indicadores-continuidade-coletivos-limite.csv",
+    "retrieved_at_utc": "2026-10-06T12:38:37.834920+00:00",
+    "bytes": 25865955,
+    "sha256": "6cf409fc39aed93553293209ad662c8462036362feafc6337ea9c414ee0d9e92"
+  },
+  {
+    "file": "indicator_dictionary.csv",
+    "url": "https://dadosabertos.aneel.gov.br/dataset/d5f0712e-62f6-4736-8dff-9991f10758a7/resource/17fc99b7-e707-4ec4-9553-a43d7a41f7a6/download/dominio-indicadores.csv",
+    "retrieved_at_utc": "2026-10-06T12:38:02.302641+00:00",
+    "bytes": 46276,
+    "sha256": "fd08d3dab0af7a082ca354cbcf116848ddd544b90aeb9d0a83e630e706dd17c5"
+  },
+  {
+    "file": "crosswalk.csv",
+    "url": "https://dadosabertos.aneel.gov.br/dataset/db9c9f60-b3b5-4504-9dfe-2637922d53ce/resource/3f841488-80a8-42f2-a6ca-e0c593b228de/download/indqual-municipio.csv",
+    "retrieved_at_utc": "2026-10-06T12:38:15.999373+00:00",
+    "bytes": 2182847,
+    "sha256": "4063c5ba8ddaaabf27dad1a115eaa5a3f509f6ed3d22ac5c25c20f0d21365e09"
+  },
+  {
+    "file": "ibge_income_metadata.json",
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/10295/metadados",
+    "retrieved_at_utc": "2026-10-06T12:38:11.747936+00:00",
+    "bytes": 3885,
+    "sha256": "f2b5c37b22c1be08f968979a5663d76e2bc19c2ad4aece49f93ab72b64a9d746"
+  },
+  {
+    "file": "ibge_10296_metadata.json",
+    "url": "https://servicodados.ibge.gov.br/api/v3/agregados/10296/metadados",
+    "retrieved_at_utc": "2026-10-06T12:43:41.001920+00:00",
+    "bytes": 2814,
+    "sha256": "5af107df6ef16414b82854b1039d5d88dc50527ed353102c06f2c32bfdf8ce64"
+  },
+  {
+    "file": "income_classes.json",
+    "url": "https://apisidra.ibge.gov.br/values/t/10296/n6/3501608,3503802,3509502,3512803,3515152,3519055,3519071,3520509,3523404,3524709,3531803,3532009,3533403,3536505,3537107,3545803,3548005,3552403,3556206,3556701/n3/35/n1/1/v/13604/p/2022/c2/6794/c86/95251/c386/all?formato=json",
+    "retrieved_at_utc": "2026-10-06T12:44:45.253831+00:00",
+    "bytes": 119267,
+    "sha256": "76a906b83346dbec92c5902a4d5ffc2ad9aa7f3bb22f6a119a7894e6a21ef1ec"
+  },
+  {
+    "file": "income.json",
+    "url": "https://apisidra.ibge.gov.br/values/t/10295/n6/3501608,3503802,3509502,3512803,3515152,3519055,3519071,3520509,3523404,3524709,3531803,3532009,3533403,3536505,3537107,3545803,3548005,3552403,3556206,3556701/n3/35/n1/1/v/13431,13534,13604/p/2022/c2/6794/c86/95251/c58/95253?formato=json",
+    "retrieved_at_utc": "2026-10-06T12:39:43.531936+00:00",
+    "bytes": 31763,
+    "sha256": "d6461b65240ac6afd3648c7045e2e6bd7eeda008d6b89a6f4e0da4915d5c3177"
+  },
+  {
+    "file": "municipality_names.json",
+    "url": "https://servicodados.ibge.gov.br/api/v1/localidades/estados/35/municipios",
+    "retrieved_at_utc": "2026-10-06T12:38:17.865282+00:00",
+    "bytes": 284370,
+    "sha256": "c06b7327c3bf7475d0c63c90c5f8c9122464fd0ed84bc98709a2a7f82649d14b"
+  },
+  {
+    "file": "sp_mesh.json",
+    "url": "https://servicodados.ibge.gov.br/api/v3/malhas/estados/35?formato=application/vnd.geo+json&qualidade=minima&intrarregiao=municipio",
+    "retrieved_at_utc": "2026-10-06T12:38:26.275370+00:00",
+    "bytes": 309590,
+    "sha256": "7db0d263e8930e581223181f4c009d139b0a14a5398a332c130cab6bd7e90dff"
+  }
+]
