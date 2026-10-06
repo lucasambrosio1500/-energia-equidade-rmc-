@@ -1,0 +1,7 @@
+{
+  "file": "ibge_10301_metadata.json",
+  "url": "https://servicodados.ibge.gov.br/api/v3/agregados/10301/metadados",
+  "retrieved_at_utc": "2026-10-06T12:43:41.134916+00:00",
+  "bytes": 903,
+  "sha256": "299dd5dcaa8dcd60c12852cb388c7b340d61f0220d86f492cbc4ecbb7b06848a"
+}

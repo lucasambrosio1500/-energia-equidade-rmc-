@@ -1,0 +1,7 @@
+{
+  "file": "sp_mesh.json",
+  "url": "https://servicodados.ibge.gov.br/api/v3/malhas/estados/35?formato=application/vnd.geo+json&qualidade=minima&intrarregiao=municipio",
+  "retrieved_at_utc": "2026-10-06T12:38:26.275370+00:00",
+  "bytes": 309590,
+  "sha256": "7db0d263e8930e581223181f4c009d139b0a14a5398a332c130cab6bd7e90dff"
+}

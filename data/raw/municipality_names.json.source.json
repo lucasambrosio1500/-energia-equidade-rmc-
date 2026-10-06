@@ -1,0 +1,7 @@
+{
+  "file": "municipality_names.json",
+  "url": "https://servicodados.ibge.gov.br/api/v1/localidades/estados/35/municipios",
+  "retrieved_at_utc": "2026-10-06T12:38:17.865282+00:00",
+  "bytes": 284370,
+  "sha256": "c06b7327c3bf7475d0c63c90c5f8c9122464fd0ed84bc98709a2a7f82649d14b"
+}

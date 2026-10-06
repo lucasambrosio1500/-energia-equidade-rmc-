@@ -1,0 +1,7 @@
+{
+  "file": "aneel_catalog.json",
+  "url": "https://dadosabertos.aneel.gov.br/api/3/action/package_show?id=indicadores-coletivos-de-continuidade-dec-e-fec",
+  "retrieved_at_utc": "2026-10-06T12:37:40.398862+00:00",
+  "bytes": 24709,
+  "sha256": "d82ac5294189ac23da25e00d91587ee2e0d7e4f8f9573edeb946c440a0be7d31"
+}
