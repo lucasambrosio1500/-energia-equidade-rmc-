@@ -1,0 +1,29 @@
+{
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "municipalities_target": 20,
+  "municipalities_with_income": 20,
+  "monthly_records": 450359,
+  "regional_monthly_records": 8061,
+  "regional_sets_any_complete_year": 56,
+  "regional_shared_sets": 44,
+  "regional_exclusive_sets": 12,
+  "regional_set_years_incomplete": 3,
+  "national_set_years_incomplete": 139,
+  "set_years_without_crosswalk": 14,
+  "regional_missing_dec_limits_complete": 2,
+  "national_uc_ratio_gt2": 20,
+  "regional_uc_ratio_gt2": 0,
+  "crosswalk_snapshot": [
+    "2026-09-09"
+  ],
+  "continuity_snapshot": [
+    "2026-10-05"
+  ],
+  "income_reference_year": 2022,
+  "municipal_indicator_kind": "mediana não ponderada dos conjuntos associados; não é DEC municipal"
+}

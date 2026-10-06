@@ -1,0 +1,17 @@
+{
+  "input_sha256": "1d26f758497a4327b9c37207c5312d263b940aa04ea796301dc44f2db0272b62",
+  "rows_scanned": 5137778,
+  "rows_selected": 450359,
+  "years": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "indicators": [
+    "DEC",
+    "FEC",
+    "NumCon"
+  ],
+  "snapshot_sha256": "8dadba0d38796536e4a26e8fc0d3605375d8af2111b1deaf70ff435d9f5242e2"
+}
